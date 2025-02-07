@@ -7,7 +7,7 @@ Team Members:
 - Aashish (S385593)
 - Xueqin Guo (S367175)
 - Syed Omar Faruk (S375804)
-- Rohan Baniya ()
+- Rohan Baniya (S386847)
 
 This program demonstrates an image editor application with functionalities such as:
 - Image Loading: Select and load images from the local device and display them in the application window.
