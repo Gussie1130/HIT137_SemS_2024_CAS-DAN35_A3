@@ -6,7 +6,7 @@ import numpy as np
 
 class ImageEditorApp(tk.Tk):
     """
-    Image editor main application that integrates image loading, cropping,scaling, filter processing,saving, and undo/redo functions
+    Image editor is the main application that integrates image loading, cropping, scaling, filter processing, saving, and undo/redo functions
     """
     def __init__(self):
         super().__init__()
