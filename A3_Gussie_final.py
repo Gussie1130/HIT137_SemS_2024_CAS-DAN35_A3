@@ -1,3 +1,23 @@
+"""
+HIT137 - Group Assignment 3
+Image Editor Application
+
+Group: CAS/DAN 35
+Team Members:
+- Aashish (S385593)
+- Xueqin Guo (S367175)
+- Syed Omar Faruk ()
+- Rohan Baniya ()
+
+This program demonstrates an image editor application with functionalities such as:
+- Image Loading: Select and load images from the local device and display them in the application window.
+- Image Cropping: Draw a rectangle using mouse interaction for image cropping and provide real-time visual feedback.
+- Image Resizing: Slider control for resizing the cropped image with real-time updates.
+- Saving the Modified Image: Allow saving of the modified image in various formats.
+
+Bonus Features include keyboard shortcuts, grayscale, edge detection, and undo/redo functionality.
+
+"""
 import tkinter as tk
 from tkinter import filedialog, messagebox
 import cv2
