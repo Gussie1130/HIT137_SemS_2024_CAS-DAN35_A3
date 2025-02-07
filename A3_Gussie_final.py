@@ -6,7 +6,7 @@ Group: CAS/DAN 35
 Team Members:
 - Aashish (S385593)
 - Xueqin Guo (S367175)
-- Syed Omar Faruk ()
+- Syed Omar Faruk (S375804)
 - Rohan Baniya ()
 
 This program demonstrates an image editor application with functionalities such as:
